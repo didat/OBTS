@@ -9,8 +9,13 @@ package javaapplication1;
 public class JavaApplication1 {
 
     public static void main(String[] args) {
+
         
         int a=13;
+        // TODO code application logic here
+        String b;
+        String c;
+
     }
     
 }
