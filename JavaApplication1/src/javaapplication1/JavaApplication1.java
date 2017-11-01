@@ -5,17 +5,12 @@
  */
 package javaapplication1;
 
-/**
- *
- * @author 210SE2209
- */
+
 public class JavaApplication1 {
 
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
+        int a=13;
     }
     
 }
