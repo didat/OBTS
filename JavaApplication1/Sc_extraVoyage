@@ -1,0 +1,11 @@
+Scenario name ------- extraVoyage
+Participating actors ----- Anil: Staff, Didar: Admin
+Instances ------ Mehmet: User
+
+Flow of events: 
+
+1. Mehmet has been looking for a ticket for his Ankara trip but all the seats are unavailable. He then calls the staff to learn if there could be an extra bus to make his Ankara trip happen.
+2. Anil recives the message from Mehmet and activates his "Add Extra Voyage" from his terminal. He enters the informations that are date, time and type of bus of the extra voyage and sends a request to Administrator.
+3. Didar receives the request that has come from Anil and she checks if the request is applicable. Didar activates her "Check Voyages" from her terminal.
+4. Didar informs Anil that the request is whether applied or not.
+
